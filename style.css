@@ -1,0 +1,26 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    font-size: 62.5%;
+}
+
+body {
+    width: 80%;
+    margin: 0 auto;
+}
+
+#error {
+    padding: 10px;
+    background-color: red;
+    color: white;
+    font-weight: bold;
+    font-size: xx-large;
+}
+
+.container {
+    margin-top: 10px;
+}
